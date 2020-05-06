@@ -1,6 +1,6 @@
 # change this code
 mystring = "hello"
-myfloat = 1.0
+myfloat = 2.0
 myint = 2020
 
 # testing code
