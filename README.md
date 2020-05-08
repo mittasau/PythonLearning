@@ -54,3 +54,82 @@ D3E3  Describe the scope of the variables a, b, c and d in this example:
         Can you guess what would happen if we were to assign c a value of 1 instead? 
 
         Why would this be a problem? Can you think of a way to avoid it? 
+
+D4E1   Write a class for cars. Create two new cars called carA and carB. Set carA to be a black sedan worth $50000 with a name of Ford, and car2 to be        a red truck named Jeep worth $10000 
+
+D4E2 Write a Python class to reverse a string by words 
+
+        Input string : 'hello ATS' 
+        Expected Output : 'ATS hello' 
+
+D4E3
+    Create a set a which contains the first four positive integers and a set b which contains the first four odd positive integers. 
+
+    Create a set c which combines all the numbers which are in a or b (or both). 
+
+    Create a set d which contains all the numbers in a but not in b. 
+
+    Create a set e which contains all the numbers in b but not in a. 
+
+    Create a set f which contains all the numbers which are both in a and in b. 
+
+    Create a set g which contains all the numbers which are either in a or in b but not in both. 
+
+    Print the number of elements in c. 
+
+ 
+D4E4  Create a dict directory which stores telephone numbers (as string values), and populate it with these key-value pairs: 
+
+        Name 
+
+        Telephone number 
+
+        Jane Doe 
+
+        +27 555 5367 
+
+        John Smith 
+
+        +27 555 6254 
+
+        Bob Stone 
+
+        +27 555 5689 
+
+        Change Jane’s number to +27 555 1024 
+
+        Add a new entry for a person called Anna Cooper with the phone number +27 555 3237 
+
+        Print Bob’s number. 
+
+        Print Bob’s number in such a way that None would be printed if Bob’s name were not in the dictionary. 
+
+        Print all the keys. The format is unimportant, as long as they’re all visible. 
+
+        Print all the values. 
+
+D5E1 Sort a tuple of tuples by 2nd item 
+
+    tuple1 = (('a', 23),('b', 37),('c', 11), ('d',29)) 
+
+    Expected output: 
+
+    (('c', 11), ('a', 23), ('d', 29), ('b', 37)) 
+
+D5E2 
+    Create a tuple a which contains the first four positive integers and a tuple b which contains the next four positive integers. 
+
+    Create a tuple c which combines all the numbers from a and b in any order. 
+
+    Create a tuple d which is a sorted copy of c. 
+
+    Print the third element of d. 
+
+    Print the last three elements of d without using its length. 
+
+    Print the length of d. 
+
+ 
+D5E3  Print an alphabetically sorted list of all functions in the numpy module, which contain the word find. 
+
+ 
