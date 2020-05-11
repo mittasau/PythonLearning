@@ -132,4 +132,30 @@ D5E2
  
 D5E3  Print an alphabetically sorted list of all functions in the numpy module, which contain the word find. 
 
+D6E1: 
+
+    Remove duplicate from a list and print list and create a tuple and find the minimum and maximum number 
+
+    For Example: 
+
+    sampleList = [1, 4, 1, 5, 4, 4, 9, 9] 
+
+
+D6E2: 
+
+    Implement Bubble Sort 
+
+    Compare first and second element in the list and swap if they are in the wrong order. 
+
+    Compare second and third element and swap them if they are in the wrong order. 
+
+    Proceed similarly until the last element of the list in a similar fashion. 
+
+    Keep repeating all of the above steps until the list is sorted. 
+
+
+D6E3: 
+
+    Write a Python program to create a FIFO queue and a LIFO queue. 
+
  
