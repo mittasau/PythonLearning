@@ -158,4 +158,76 @@ D6E3:
 
     Write a Python program to create a FIFO queue and a LIFO queue. 
 
+
+D7E1:   Exception Handling 
+
+        Type something so that Python gives a NameError. 
+
+        Type something so that Python gives a SyntaxError.  
+
+        Type something so that Python gives a TypeError. 
+
+        Type something so that Python gives a IndexError. 
+
+        Type something so that Python gives a KeyError. 
+
+        Type something so that Python gives a AttributeError. 
+
+        Type something so that Python gives a ValueError. 
+
+D7E2: 
+
+    Write an interactive calculator. 
+
+    User input should be a formula that consist of a number, an operator (at least + and -), and another number, separated by white space (e.g. 1 + 1)
+
+    Split user input using str.split(), and check whether the resulting list is valid: 
+
+    If the input does not consist of 3 elements, raise a ExpressionError, which is a custom Exception. 
+
+    Try to convert the first and third input to a float (like so: float_value = float(str_value)). Catch any ValueError that occurs, and instead raise a ExpressionError 
+
+    If the second input is not '+' or '-', again raise a ExpressionError 
+
+    On valid input, perform the calculation and print out the result. Do this, until the user enters quit. 
+
+    An interaction could look like this: 
+
+    > 2 + 2 
+    4.0 
+    >>> 4.6 - 1.2 
+    3.3999999999999995 
+    >>> quit 
+    >>> 1 + 12.0
+    >>> 3.2 - 1.51.7000000000000002>
+    >> quit 
+
+ 
+
+D8E1:  
+
+    Open a CSV file which contains three columns of numbers. Write out the data to a new CSV file, swapping around the second and third columns and adding a fourth column which contains the sum of the first three. 
+
+D8E2: 
+
+    Write a Python program to convert Python objects into JSON strings. Print all the values. 
+
+    Dict, list, string, integer, float, boolean, null 
+
+D8E3:
+
+    Write a Python program to write a Python dictionary to a csv file. After writing the CSV file read the CSV file and display the content. 
+
+D9E1:
+    Write Python code to create a SQLite database. Make a connection with the database and print the version of the SQLite database. 
+
+D9E2:
+
+    Write Python code to create a table and insert some records. Then selects all rows from the same table and display the records. 
+
+D9E3 : 
+
+    Write a Python code to insert values to a table from user input. 
+
+ 
  
