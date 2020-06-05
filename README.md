@@ -229,5 +229,39 @@ D9E3 :
 
     Write a Python code to insert values to a table from user input. 
 
+D11E1 : Write a generator function which takes an integer n as a parameter. The function should return a generator which counts down from n to 0. Test your function using a for loop. 
+
+D11E2 : Write a logging decorator to create a custom log file. 
+
+        Test the decorator by applying it to a function which takes two arguments and returns their sum. Print the result of the function, and what was logged to the file. 
+
+        Print some statement before and after the execution of a function. 
+
+
+D13E1 : Use a closure to access inner() function out of its scope and print Hello. 
+
+D13E2 : Use an argument in the inner operation(n) function, so when the outer function is called it returns a reference to inner function. 
+
+D14E1 : Python code to check that a string contains only following characters : a-z, A-Z and 0-9 
+
+D14E2 : Python code to remove the text from brackets () 
+
+        Sample data : ["XYZ(.com)", "ABC", "jkl(.com)", "pol(.com)"] 
+
+D14E3 : Write an email validator using regular expression. 
+
+D15E1 : Create a lambda function in Python to solve any business logic. 
+
+        Take any input parameter to functions. 
+
+        Write logs to CloudWatch. 
+
+        Produce Json Results. 
+
+        Bind it to the API Gateway to generate an API. 
+
+        Try to interact with other AWS services such as S3 etc. 
+
  
+
  
